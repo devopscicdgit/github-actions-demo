@@ -4,6 +4,8 @@
 
 Automated build, test, and deployment pipeline using GitHub Actions. Adaptable blueprint for data engineering teams establishing CI/CD, quality gates, and governance around application + workflow code.
 
+[![Next.js](https://img.shields.io/badge/next.js-13.5-black.svg)](https://nextjs.org/) [![React 18](https://img.shields.io/badge/react-18.2-61dafb.svg?logo=react&logoColor=61dafb&label=react)](https://react.dev/) [![Node.js](https://img.shields.io/badge/node.js-20.x-43853d.svg?logo=node.js&logoColor=white)](https://nodejs.org/) [![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue.svg?logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) [![GitHub Pages](https://img.shields.io/badge/deploy-GitHub_Pages-222222.svg?logo=github&logoColor=white)](https://pages.github.com/) [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt)
+
 </div>
 
 ## 1. Overview
